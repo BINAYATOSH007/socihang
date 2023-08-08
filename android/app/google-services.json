@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "670642494392",
+    "project_id": "socihang-ded31",
+    "storage_bucket": "socihang-ded31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670642494392:android:a218445425b04b489a0d4d",
+        "android_client_info": {
+          "package_name": "com.example.socihang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670642494392-a0doiejl5c5g4bc32n11fl60r0nrefa8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socihang",
+            "certificate_hash": "5a11352603552b01abdb06e7881c9614e3d44237"
+          }
+        },
+        {
+          "client_id": "670642494392-1vpeod2arjrg0c7ot2bmvcqm0r6r51dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwf3aPmh6hQ0nWsQn8vk6-vDmgbyNqHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670642494392-1vpeod2arjrg0c7ot2bmvcqm0r6r51dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
